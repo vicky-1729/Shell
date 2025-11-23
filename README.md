@@ -1,3 +1,4 @@
+
 # 🐚 Shell Scripting Projects
 
 A comprehensive collection of Shell scripting projects and practice exercises showcasing automation and scripting capabilities.
